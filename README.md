@@ -1,4 +1,4 @@
-# Pewlett- Hackard Employee Data Analysis (1980s and 1990s)
+Pewlett- Hackard Employee Data Analysis (1980s and 1990s)
 
 ## Repository Overview 
 - All data for this analysis can be found in the "Employee Data" Folder
